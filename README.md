@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>What I do:<br>  • Build end-to-end data platforms — React ✕ FastAPI ✕ Postgres ✕ Pulumi  <br>  • Craft custom providers & CI/CD pipelines <br>  • Lead award-winning high-school cyber teams (CyberPatriot 🥇, CyberStart Gold 🥇)<br><br>What I’m exploring now:<br>  • Rust for high-speed crypto tooling and large-scale system design.<br><br>Ask me about: <br>  • Web-scraping architectures • Cloud infra as code • Capture-the-Flag strategy.<br>
+What I do:<br>  • Build end-to-end data platforms — React ✕ FastAPI ✕ Postgres ✕ Pulumi  <br>  • Craft custom providers & CI/CD pipelines <br>  • Lead award-winning high-school cyber teams (CyberPatriot 🥇, CyberStart Gold 🥇)<br><br>What I’m exploring now:<br>  • Rust for high-speed crypto tooling and large-scale system design.<br><br>Ask me about: <br>  • Web-scraping architectures • Cloud infra as code • Capture-the-Flag strategy.<br>
 
 
 ## 🌐 Socials:
@@ -16,3 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=jschady&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
