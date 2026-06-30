@@ -8,8 +8,7 @@ closed-source for now. What's here reflects how I build when I'm shipping for my
 
 ---
 
-**Currently working on:** Backend systems and DevOps tooling ahead of my return
-to Gnosis Freight this summer.
+**Currently working on:** Backend systems and DevOps at Gnosis Freight.
 
 **Stack I reach for:** Python · TypeScript · FastAPI · AWS · Docker · Pulumi · PostgreSQL
 
