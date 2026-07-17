@@ -1,6 +1,6 @@
 # Joseph Schady
 
-CS @ Princeton · Backend & Infrastructure · Incoming SWE @ Gnosis Freight
+CS @ Princeton · Backend & Infrastructure · SWE @ Gnosis Freight
 
 Most of my production work lives in private repos — two summers of backend and
 infrastructure engineering at Gnosis Freight, plus a few projects I'm keeping
