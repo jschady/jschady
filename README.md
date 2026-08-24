@@ -13,4 +13,4 @@ in Pulumi's docker-build provider. What's here reflects how I build when I'm shi
 
 **Stack I reach for:** Python · TypeScript · Go · FastAPI · AWS · Docker · Pulumi/Terraform · PostgreSQL
 
-**Links:** [LinkedIn](https://linkedin.com/in/joseph-schady) · [scaffold-cli on npm](https://www.npmjs.com/package/scaffold-cli)
+**Links:** [LinkedIn](https://linkedin.com/in/joseph-schady) · [scaffold-cli on npm](https://www.npmjs.com/package/@jschady/scaffold-cli)
