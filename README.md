@@ -1,6 +1,6 @@
 # Joseph Schady
 
-CS @ Princeton, Class of 2029 · Backend & Infrastructure
+CS @ Princeton · Backend & Infrastructure
 
 I'm looking for a Summer 2027 software engineer internship in backend, infrastructure, or platform engineering. I'll be a rising junior that summer.
 
