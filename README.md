@@ -33,3 +33,5 @@ I maintain two community Pulumi providers in Go, one written from scratch and on
 ### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/joseph-schady) · jlschady[at]gmail[dot]com
+
+[![jschady's GitHub stats](https://github-stats-extended.vercel.app/api?username=jschady)](https://github.com/stats-organization/github-stats-extended)
