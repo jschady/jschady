@@ -8,7 +8,7 @@ The Gnosis code is private. Working on it is what turned up the two Pulumi bugs 
 
 ### Merged upstream
 
-* The Docker Build provider dropped live resources from state on any non-404 registry error, like an expired ECR token. Filed it, patched it. Merged as [pulumi/pulumi-docker-build #930](https://github.com/pulumi/pulumi-docker-build/pull/930), July 2026.
+* The Docker Build provider dropped live resources from state on any non-404 registry error, like an expired ECR token. Merged as [pulumi/pulumi-docker-build #930](https://github.com/pulumi/pulumi-docker-build/pull/930), July 2026.
 * In the core engine, replacing a `deletedWith` target left a dependent that was gone in the cloud but still in state, and the engine reported success. My patch replaces the dependent too. Merged as [pulumi/pulumi #23818](https://github.com/pulumi/pulumi/pull/23818), August 2026.
 
 ### Pulumi providers
