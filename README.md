@@ -1,8 +1,6 @@
 # Joseph Schady
 
-CS @ Princeton · Backend & Infrastructure
-
-I'm looking for a Summer 2027 software engineer internship in backend, infrastructure, or platform engineering. I'll be a rising junior that summer.
+CS @ Princeton · Incoming @ Meta
 
 I wrote backend services and AWS infrastructure at Gnosis Freight, a logistics SaaS company, from April to August 2025 and again from May to August 2026. I started there as a high school senior. That code is in private repos, and working on it is what turned up the two Pulumi bugs below. Everything else here I built on my own time.
 
